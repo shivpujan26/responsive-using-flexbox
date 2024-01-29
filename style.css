@@ -1,0 +1,23 @@
+.container{
+    height: 80vh;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+}
+.red{
+    height: 20vh;
+    width: 20vw;
+    background-color: red;
+}
+.blue{
+    height: 20vh;
+    width: 20vw;
+    background-color:blue;
+}
+.green{
+    height: 20vh;
+    width: 20vw;
+    background-color:green;
+}
